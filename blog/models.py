@@ -7,6 +7,7 @@ class Article(models.Model):
     title = models.CharField(max_length=100)
     slug = models.SlugField(unique=True)
     content = models.TextField()
+    published = models.BooleanField(default=False)
     date = models.DateField(blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -18,3 +19,9 @@ class Article(models.Model):
         if not self.slug:
             self.slug = slugify(self.title)
         return super().save(*args, **kwargs)
+
+    @property
+    def publish(self):
+        if self.published:
+            return "L'article est déjà publié"
+        return "L'article est inactif"

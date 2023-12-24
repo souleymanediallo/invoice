@@ -1,0 +1,44 @@
+{
+    "articles": [
+        {
+            "title": "Les Mystères de l'Océan",
+            "content": "L'océan recèle de nombreux mystères encore inexplorés. Des profondeurs obscures aux créatures étranges, les scientifiques s'efforcent de comprendre cet environnement complexe et fascinant."
+        },
+        {
+            "title": "Voyage dans l'Espace",
+            "content": "Le voyage spatial a toujours captivé l'humanité. Avec les progrès technologiques, l'exploration de l'espace s'étend au-delà de notre système solaire, ouvrant des possibilités infinies."
+        },
+        {
+            "title": "L'Art de la Cuisine Française",
+            "content": "La cuisine française est réputée pour sa finesse et sa diversité. De la baguette traditionnelle aux plats gastronomiques, elle offre une palette de saveurs unique."
+        },
+        {
+            "title": "L'Histoire des Civilisations Anciennes",
+            "content": "Les civilisations anciennes, de l'Égypte aux Mayas, ont laissé un héritage riche en architecture, en art et en culture, qui continue d'influencer notre monde moderne."
+        },
+        {
+            "title": "Le Futur de l'Intelligence Artificielle",
+            "content": "L'intelligence artificielle évolue à un rythme rapide, transformant chaque aspect de notre vie, de la médecine à l'industrie, et soulève des questions éthiques importantes."
+        },
+        {
+            "title": "La Conservation de la Biodiversité",
+            "content": "La biodiversité est essentielle à la survie de notre planète. Les efforts de conservation visent à protéger les espèces menacées et à maintenir l'équilibre des écosystèmes."
+        },
+        {
+            "title": "Les Avancées en Médecine",
+            "content": "La médecine a fait d'énormes progrès au cours du siècle dernier, conduisant à une meilleure compréhension des maladies et à des traitements plus efficaces pour améliorer la qualité de vie."
+        },
+        {
+            "title": "Le Défi du Changement Climatique",
+            "content": "Le changement climatique est un défi mondial majeur. Les efforts pour réduire les émissions de gaz à effet de serre et développer des énergies renouvelables sont cruciaux pour notre avenir."
+        },
+        {
+            "title": "Les Secrets de l'Univers",
+            "content": "L'astronomie révèle des secrets fascinants sur l'Univers, des trous noirs aux galaxies lointaines, nous aidant à comprendre notre place dans le cosmos."
+        },
+        {
+            "title": "L'Innovation Technologique",
+            "content": "L'innovation technologique transforme nos vies, apportant de nouvelles solutions dans des domaines tels que la communication, le transport, et l'éducation."
+        }
+    ]
+}
